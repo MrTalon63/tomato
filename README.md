@@ -1,2 +1,2 @@
 # tomato
-If you fork it, you can say that you forked tomato
+If you fork this you can say that you forked a tomato.
